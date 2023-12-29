@@ -35,11 +35,6 @@ Start the local development server
 
     php artisan serve
     
-# Run Unit Test
-Run unit test command
-    
-    php artisan test
-    
 # Sample Collection
 
     https://documenter.getpostman.com/view/24916791/2s9YsDiZM1
